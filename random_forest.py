@@ -1,8 +1,4 @@
-# Assignment 1
-# Name: Huang Chun Wing
-# UID: 3035371941
-# Name: Guo Shenyue
-# UID: 3035334761
+
 
 import math
 import random
